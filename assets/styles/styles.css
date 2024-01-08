@@ -25,6 +25,7 @@ html {
 html.dark {
   --primary-color: #fff;
   --secondary-color: #333;
+
   background-color: #111;
   color: var(--primary-color);
 }
